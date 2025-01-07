@@ -1,0 +1,16 @@
+
+                ************************  PERPUS MINIMALISM  ************************
+                ************ Sistem Peminjaman Buku Perpustakaan Digital ************
+                ************************ Invoice Peminjaman *************************
+                
+			Tanggal :  7 - 1 - 2025
+			Nama Peminjam Buku :  Irfan Eka Mahdy
+			Judul Buku :  Dasar-Dasar Teknik Informatika
+			Tanggal Peminjaman :  2025-01-07
+			Tanggal Deadline :  2025-01-08
+			Tanggal Kembali :  2025 - 1 - 7
+			Denda :  0  Rupiah
+
+                        ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
+                                            ---LUNAS---
+                

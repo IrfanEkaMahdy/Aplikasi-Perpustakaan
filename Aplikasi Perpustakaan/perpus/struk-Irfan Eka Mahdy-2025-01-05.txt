@@ -1,0 +1,14 @@
+
+                    ************************  PERPUS MINIMALISM  ************************
+                    ************ Sistem Peminjaman Buku Perpustakaan Digital ************
+                    ************************ Struk Bukti Pinjam *************************
+                    
+			Tanggal :  2025-01-05
+			Nama Peminjam Buku :  Irfan Eka Mahdy
+			Judul Buku :  The Great Gatsby by F. Scott Fitzgerald
+			Tanggal Peminjaman :  2025-01-05
+			Tanggal Kembali :  2025-01-06
+
+                            ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
+                            ---Struk Harap Dibawa pada saat pengembalian Buku---
+                    

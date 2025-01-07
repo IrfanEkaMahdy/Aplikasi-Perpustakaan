@@ -1,0 +1,16 @@
+
+                ************************  PERPUS MINIMALISM  ************************
+                ************ Sistem Peminjaman Buku Perpustakaan Digital ************
+                ************************ Invoice Peminjaman *************************
+                
+			Tanggal :  7 - 1 - 2025
+			Nama Peminjam Buku :  Irfan Eka Mahdy
+			Judul Buku :  The Great Gatsby by F. Scott Fitzgerald
+			Tanggal Peminjaman :  2024-12-30
+			Tanggal Deadline :  2025-01-01
+			Tanggal Kembali :  2025 - 1 - 7
+			Denda :  30000  Rupiah
+
+                        ---Terima Kasih Telah Meminjam Buku Ditempat Kami---
+                                            ---LUNAS---
+                
