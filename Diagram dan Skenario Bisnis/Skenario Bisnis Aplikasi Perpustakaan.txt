@@ -1,0 +1,13 @@
+Skenario Bisnis Aplikasi Perpustakaan
+
+Aplikasi Perpustakaan dirancang untuk membantu pengelolaan buku dan transaksi peminjaman serta pengembalian dengan fitur-fitur berikut:
+
+- Menampilkan daftar buku yang tersedia dan jumlah stok.
+
+- Memfasilitasi proses peminjaman buku oleh pengguna dengan mencetak struk bukti peminjaman.
+
+- Memproses pengembalian buku dan menghitung denda jika ada keterlambatan.
+
+- Mencetak invoice transaksi peminjaman.
+
+- Menampilkan peraturan perpustakaan.
