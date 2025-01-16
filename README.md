@@ -1,7 +1,7 @@
 # Aplikasi-Perpustakaan
-Aplikasi Perpustakaan ini dibuat untuk memenuhi Tugas Ujian Akhir Semester PBO (Pemprograman Berorientasi Object)
+Aplikasi Perpustakaan ini dibuat untuk memenuhi Tugas Ujian Akhir Semester Pemprograman Berorientasi Objek
 
-Adapun fitur yang saya gunakan pada aplikasi ini yaitu :
+Adapun fitur yang kami gunakan pada aplikasi ini yaitu :
 
 Array Satu Dimensi
 Eksekusi Kondisional If & Elif
